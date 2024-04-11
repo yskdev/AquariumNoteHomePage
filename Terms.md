@@ -24,15 +24,16 @@ The content provided in the application may be the property of the developer or 
 Users may use the content within the app only for their personal use.
 Users may not use the content of the application in any way that exceeds the rights granted by copyright law, including but not limited to reproduction, modification, distribution, public transmission, translation, lending, and selling. 5.
 
-**5. usage fees**
+**5. subscription registration**
 
 Usage of the application may incur usage fees, including basic fees and fees for charged content.
 Fees are subject to change without notice.
-Payment of usage fees shall be made by the method specified within the application.
+Payment of the usage fee shall be made by the method specified within the application.
+Subscription cannot be cancelled once activated.
 
-**5.1 Cancellation of Subscription**
+**5.1 Cancellation of Automatic Subscription Renewal**
 
-Cancellation of subscription shall be carried out by canceling auto-renewal on the device of registration.
+Cancellation of subscription shall be performed by canceling auto-renewal on the device of registration.
 
 **6. limitation of liability**
 
